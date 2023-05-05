@@ -564,6 +564,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/sprintf-js@npm:^1.1.2":
+  version: 1.1.2
+  resolution: "@types/sprintf-js@npm:1.1.2"
+  checksum: 9679e069eebebd910af12e4f90cfde44cd9af5974792bac572f41cd365eca2a6868287679281f2eb600b7960b28ae951d2a1b5980fb2966be71af18f3def58c7
+  languageName: node
+  linkType: hard
+
 "@types/ws@npm:^8.5.3":
   version: 8.5.3
   resolution: "@types/ws@npm:8.5.3"
@@ -669,10 +676,12 @@ __metadata:
     "@tsconfig/node16-strictest": ^1.0.4
     "@tsconfig/recommended": ^1.0.1
     "@types/node": ^18.11.13
+    "@types/sprintf-js": ^1.1.2
     discord-api-types: ^0.37.21
     discord.js: ^14.7.1
     dotenv: ^16.0.3
     ethers: ^5.7.2
+    sprintf-js: ^1.1.2
     ts-node: ^10.9.1
     typescript: ^4.9.4
   languageName: unknown
@@ -891,6 +900,13 @@ __metadata:
   version: 3.0.1
   resolution: "scrypt-js@npm:3.0.1"
   checksum: b7c7d1a68d6ca946f2fbb0778e0c4ec63c65501b54023b2af7d7e9f48fdb6c6580d6f7675cd53bda5944c5ebc057560d5a6365079752546865defb3b79dea454
+  languageName: node
+  linkType: hard
+
+"sprintf-js@npm:^1.1.2":
+  version: 1.1.2
+  resolution: "sprintf-js@npm:1.1.2"
+  checksum: d4bb46464632b335e5faed381bd331157e0af64915a98ede833452663bc672823db49d7531c32d58798e85236581fb7342fd0270531ffc8f914e186187bf1c90
   languageName: node
   linkType: hard
 
